@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "idify",
+  "name": "在线制作证件照",
   "version": "0.0.1",
   "dependencies": {
     "@idify/web": "^0.0.1"
